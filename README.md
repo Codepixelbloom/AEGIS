@@ -120,9 +120,3 @@ Agentverse docs before attempting it (file layout and allowed libraries differ).
 `.env`; provide `AGENT_SEED_PHRASE` and other settings through the platform's supported secret /
 configuration mechanism.
 
-## Limitations
-
-- Sessions are in memory: lost on restart, not shared across replicas.
-- One simulated field per session (40x30 cells, fixed seed); drone physics is simplified.
-- Unverified against a live Agentverse/ASI:One deployment (see the verification notes in the
-  hand-off message).
