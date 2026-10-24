@@ -1,4 +1,4 @@
-# Agri-Swarm Agent
+# AEGIS
 
 A decentralized agricultural drone-swarm simulator exposed as a [uAgents](https://uagents.fetch.ai)
 agent for Agentverse and ASI:One chat. Chat with it to launch drones, add more at any time,
